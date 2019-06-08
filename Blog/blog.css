@@ -1,0 +1,25 @@
+div{
+	font-family: source sans pro;
+	border:solid 20px #bdc3c7 ;
+	width: 50%;
+	height:50%;
+	margin:auto auto; 
+	padding: 50px;
+	text-align: left;
+}
+.border{
+	border-left: solid 5px #bdc3c7;
+}
+h3{
+	color: #3498db;
+	text-transform: uppercase;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
+h1{
+	text-transform: capitalize;
+	color: #2c3e50;
+	}
+hr{
+	text
+}
