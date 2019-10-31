@@ -12,5 +12,4 @@
 
 -(Optional )Nodemon Used for automatically starting the server on saving changes.
 
-Note:
-  package-lock.json has the list of all the required dependencies
+
